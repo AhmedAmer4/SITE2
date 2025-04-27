@@ -1,3 +1,3 @@
 
-// JavaScript file (empty for now)
+// JavaScript file
 console.log("Website loaded successfully!");

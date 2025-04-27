@@ -1,1 +1,22 @@
-/* CSS template هنا */
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    font-size: 3rem;
+}
+p {
+    font-size: 1.5rem;
+}

@@ -1,1 +1,3 @@
-// JS template هنا
+
+// JavaScript file (empty for now)
+console.log("Website loaded successfully!");
